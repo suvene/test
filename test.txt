@@ -9,3 +9,4 @@
   - hook test3
 * のーりべーすまーじ
 * りべーすまーじ
+- no-rebase-merge
