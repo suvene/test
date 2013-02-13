@@ -10,3 +10,4 @@
 * のーりべーすまーじ
 * りべーすまーじ
 - no-rebase-merge
+- rebase-merge
