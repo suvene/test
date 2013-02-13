@@ -11,3 +11,4 @@
 * りべーすまーじ
 - no-rebase-merge
 - rebase-merge
+- rebase-merge3
